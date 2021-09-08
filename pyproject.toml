@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "jetblack-graphql-types"
-version = "0.1.0"
+version = "0.2.0"
 description = "Serialization for JSON and XML using typing"
 repository = "https://github.com/rob-blackbourn/jetblack-graphql-types"
 authors = ["Rob Blackbourn <rob.blackbourn@gmail.com>"]
